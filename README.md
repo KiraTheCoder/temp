@@ -5,7 +5,7 @@
 From rebase and rerere to submodule and subtree, this session will show you common use cases for some of the less common Git commands. This hands-on session will include a cornucopia of nerdy delights as we round out the bunch with reset and filter-branch. 
 
 **Table of Contents**
-- [Gettin Started](#gettin-started)
+- [Getting Started](#gettin-started)
 - [Cheat Sheets](#cheat-sheets)
 - [Resources](#resources)
 
