@@ -9,7 +9,7 @@ From rebase and rerere to submodule and subtree, this session will show you comm
 - [Cheat Sheets](#cheat-sheets)
 - [Resources](#resources)
 
-# Gettin Started
+- Gettin Started
 
 This class will be 100% command line! You will need:
 
